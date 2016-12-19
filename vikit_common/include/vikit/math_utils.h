@@ -12,7 +12,7 @@
 #include <Eigen/Core>
 #include <Eigen/StdVector>
 #include <sophus/se3.hpp>
-
+#include <Eigen/Dense>
 namespace vk
 {
 
